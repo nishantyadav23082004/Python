@@ -7,6 +7,7 @@ Rank = []
 #highest = max(Marks)
 #index1 = Marks.index(highest)
 #prevTopper = Names[index1]
+#this code is good but needs some changes
 
 #Asking user if he wants to update
 ask = input("do you want to update (yes/no): ")
